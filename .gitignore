@@ -59,3 +59,22 @@ typings/
 
 # next.js build output
 .next
+
+# jetbrains
+.idea
+
+#images
+img
+images
+*.jpg
+*.png
+*.svg
+*.jpeg
+*.bmp
+*.ico
+**/*.jpg
+**/**/*.png
+**/*.svg
+**/*.jpeg
+**/*.bmp
+**/*.ico
